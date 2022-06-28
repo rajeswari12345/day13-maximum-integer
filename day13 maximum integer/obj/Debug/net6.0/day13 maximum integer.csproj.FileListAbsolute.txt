@@ -1,0 +1,15 @@
+C:\Users\mani1\source\repos\day13 maximum integer\day13 maximum integer\obj\Debug\net6.0\day13 maximum integer.csproj.AssemblyReference.cache
+C:\Users\mani1\source\repos\day13 maximum integer\day13 maximum integer\obj\Debug\net6.0\day13 maximum integer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mani1\source\repos\day13 maximum integer\day13 maximum integer\obj\Debug\net6.0\day13 maximum integer.AssemblyInfoInputs.cache
+C:\Users\mani1\source\repos\day13 maximum integer\day13 maximum integer\obj\Debug\net6.0\day13 maximum integer.AssemblyInfo.cs
+C:\Users\mani1\source\repos\day13 maximum integer\day13 maximum integer\obj\Debug\net6.0\day13 maximum integer.csproj.CoreCompileInputs.cache
+C:\Users\mani1\source\repos\day13 maximum integer\day13 maximum integer\bin\Debug\net6.0\day13 maximum integer.exe
+C:\Users\mani1\source\repos\day13 maximum integer\day13 maximum integer\bin\Debug\net6.0\day13 maximum integer.deps.json
+C:\Users\mani1\source\repos\day13 maximum integer\day13 maximum integer\bin\Debug\net6.0\day13 maximum integer.runtimeconfig.json
+C:\Users\mani1\source\repos\day13 maximum integer\day13 maximum integer\bin\Debug\net6.0\day13 maximum integer.dll
+C:\Users\mani1\source\repos\day13 maximum integer\day13 maximum integer\bin\Debug\net6.0\day13 maximum integer.pdb
+C:\Users\mani1\source\repos\day13 maximum integer\day13 maximum integer\obj\Debug\net6.0\day13 maximum integer.dll
+C:\Users\mani1\source\repos\day13 maximum integer\day13 maximum integer\obj\Debug\net6.0\refint\day13 maximum integer.dll
+C:\Users\mani1\source\repos\day13 maximum integer\day13 maximum integer\obj\Debug\net6.0\day13 maximum integer.pdb
+C:\Users\mani1\source\repos\day13 maximum integer\day13 maximum integer\obj\Debug\net6.0\day13 maximum integer.genruntimeconfig.cache
+C:\Users\mani1\source\repos\day13 maximum integer\day13 maximum integer\obj\Debug\net6.0\ref\day13 maximum integer.dll
