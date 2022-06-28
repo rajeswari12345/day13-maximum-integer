@@ -111,14 +111,3 @@ namespace ExtensionMethodsDemo1
         }
     }
 }
-/* Output:
-    Extension.MethodA(this IMyInterface myInterface, int i)
-    Extension.MethodA(this IMyInterface myInterface, string s)
-    A.MethodB()
-    B.MethodA(int i)
-    B.MethodB()
-    Extension.MethodA(this IMyInterface myInterface, string s)
-    C.MethodA(object obj)
-    C.MethodA(object obj)
-    C.MethodB()
- */
